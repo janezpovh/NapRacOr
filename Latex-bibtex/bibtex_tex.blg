@@ -1,0 +1,16 @@
+[0] Config.pm:307> INFO - This is Biber 2.19
+[0] Config.pm:310> INFO - Logfile is 'bibtex_tex.blg'
+[80] biber-MSWIN64:340> INFO - === 
+[113] Biber.pm:419> INFO - Reading 'bibtex_tex.bcf'
+[190] Biber.pm:979> INFO - Found 3 citekeys in bib section 0
+[199] Biber.pm:4419> INFO - Processing section 0
+[208] Biber.pm:4610> INFO - Looking for bibtex file 'bibtex-bib.bib' for section 0
+[266] bibtex.pm:1713> INFO - LaTeX decoding ...
+[273] bibtex.pm:1519> INFO - Found BibTeX data source 'bibtex-bib.bib'
+[316] UCollate.pm:68> INFO - Overriding locale 'sl-SI' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[316] UCollate.pm:68> INFO - Overriding locale 'sl-SI' defaults 'variable = shifted' with 'variable = non-ignorable'
+[316] Biber.pm:4239> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'sl-SI'
+[321] bbl.pm:660> INFO - Writing 'bibtex_tex.bbl' with encoding 'UTF-8'
+[322] bbl.pm:763> INFO - Output to bibtex_tex.bbl
+[322] Biber.pm:131> WARN - ISBN '978-1-56990-559-3 978-1-56990-560-9' in entry 'baur_plastics_2019' is invalid - run biber with '--validate_datamodel' for details.
+[322] Biber.pm:133> INFO - WARNINGS: 1
