@@ -1,0 +1,150 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{baur_plastics_2019}{book}{}
+      \name{author}{3}{}{%
+        {{hash=2c2e86add9209134f2533a6aa8579e37}{%
+           family={Baur},
+           familyi={B\bibinitperiod},
+           given={Erwin},
+           giveni={E\bibinitperiod}}}%
+        {{hash=9ac088c852a68dad4cae04e1e1b1825e}{%
+           family={Osswald},
+           familyi={O\bibinitperiod},
+           given={Tim\bibnamedelima A.},
+           giveni={T\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=a470bba22c428f0efe1f30839e10977c}{%
+           family={Rudolph},
+           familyi={R\bibinitperiod},
+           given={Natalie},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{location}{1}{%
+        {München}%
+      }
+      \list{publisher}{1}{%
+        {Carl Hanser Verlag GmbH \& Co. KG}%
+      }
+      \strng{namehash}{20d18d9c79c6d49f7295d0b45c7c36a3}
+      \strng{fullhash}{20d18d9c79c6d49f7295d0b45c7c36a3}
+      \strng{bibnamehash}{20d18d9c79c6d49f7295d0b45c7c36a3}
+      \strng{authorbibnamehash}{20d18d9c79c6d49f7295d0b45c7c36a3}
+      \strng{authornamehash}{20d18d9c79c6d49f7295d0b45c7c36a3}
+      \strng{authorfullhash}{20d18d9c79c6d49f7295d0b45c7c36a3}
+      \field{labelalpha}{BOR19}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{edition}{5}
+      \field{isbn}{978-1-56990-559-3 978-1-56990-560-9}
+      \field{month}{1}
+      \field{shorttitle}{Plastics {Handbook}}
+      \field{title}{Plastics {Handbook}: {The} {Resource} for {Plastics} {Engineers}}
+      \field{urlday}{3}
+      \field{urlmonth}{3}
+      \field{urlyear}{2020}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.3139/9781569905609
+      \endverb
+    \endentry
+    \entry{github_NRO}{online}{}
+      \name{author}{1}{}{%
+        {{hash=a0cdc06f77cd9f9296fd2de6d78a5c1c}{%
+           family={Povh},
+           familyi={P\bibinitperiod},
+           given={Janez},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{a0cdc06f77cd9f9296fd2de6d78a5c1c}
+      \strng{fullhash}{a0cdc06f77cd9f9296fd2de6d78a5c1c}
+      \strng{bibnamehash}{a0cdc06f77cd9f9296fd2de6d78a5c1c}
+      \strng{authorbibnamehash}{a0cdc06f77cd9f9296fd2de6d78a5c1c}
+      \strng{authornamehash}{a0cdc06f77cd9f9296fd2de6d78a5c1c}
+      \strng{authorfullhash}{a0cdc06f77cd9f9296fd2de6d78a5c1c}
+      \field{labelalpha}{Pov22}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Datum dostopa: 1. 10. 2023}
+      \field{title}{Napredna računalniška orodja}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://github.com/janezpovh/NapRacOr
+      \endverb
+      \verb{url}
+      \verb https://github.com/janezpovh/NapRacOr
+      \endverb
+    \endentry
+    \entry{urbas2022novel}{article}{}
+      \name{author}{4}{}{%
+        {{hash=24d846b8ee885ac8482bccb25dffa4a5}{%
+           family={Urbas},
+           familyi={U\bibinitperiod},
+           given={Uroš},
+           giveni={U\bibinitperiod}}}%
+        {{hash=dd1ac5cacfb0541c330e39339f486f73}{%
+           family={Hrga},
+           familyi={H\bibinitperiod},
+           given={Timotej},
+           giveni={T\bibinitperiod}}}%
+        {{hash=a0cdc06f77cd9f9296fd2de6d78a5c1c}{%
+           family={Povh},
+           familyi={P\bibinitperiod},
+           given={Janez},
+           giveni={J\bibinitperiod}}}%
+        {{hash=b8e2a372aa4a79800897f383ef4d13d2}{%
+           family={Vukašinović},
+           familyi={V\bibinitperiod},
+           given={Nikola},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{9dd263d2a73987cde3f425356fce885d}
+      \strng{fullhash}{26d420a9f289dc568127f75c937d798e}
+      \strng{bibnamehash}{9dd263d2a73987cde3f425356fce885d}
+      \strng{authorbibnamehash}{9dd263d2a73987cde3f425356fce885d}
+      \strng{authornamehash}{9dd263d2a73987cde3f425356fce885d}
+      \strng{authorfullhash}{26d420a9f289dc568127f75c937d798e}
+      \field{labelalpha}{Urb+22}
+      \field{sortinit}{U}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Measurement}
+      \field{title}{Novel alignment method for optical 3D gear metrology of spur gears with a plain borehole}
+      \field{volume}{192}
+      \field{year}{2022}
+      \field{pages}{110839}
+      \range{pages}{1}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
