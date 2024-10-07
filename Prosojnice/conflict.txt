@@ -1,2 +1,3 @@
 To je datoteka, namenjena za prikaz konflikta
 ta vrstica je bila nov lokalnilni konflikt
+Konflikt na predavanjih
