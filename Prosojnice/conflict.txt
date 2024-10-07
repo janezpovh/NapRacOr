@@ -1,1 +1,2 @@
 To je datoteka, namenjena za prikaz konflikta
+ta vrstica je nov lokalnilni konflikt
