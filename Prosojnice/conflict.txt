@@ -1,1 +1,1 @@
-to je lokalna kopija datoteke, namenjene prikazu konflikta
+To je datoteka, namenjena za prikaz konflikta
