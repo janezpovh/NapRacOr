@@ -1,4 +1,4 @@
 # Napredna računalniška orodja
 
-Navodilo 1: hodi vedno na predavanja
+Navodilo 2: hodi na vaje
 
